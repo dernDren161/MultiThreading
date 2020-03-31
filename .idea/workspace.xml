@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f57aa82b-6b2f-4f84-937e-8f161060eeca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WRFwdBP3YQ0ibrl3DWBbs0H3gD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.WaitAndNotify">
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.App" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo4.App" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountDown.Count" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CountDown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sync.Sync" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WaitAndNotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaitAndNotify.WaitAndNotify" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WaitAndNotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WaitAndNotify" />
+        <item itemvalue="Application.Sync" />
+        <item itemvalue="Application.Count" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f57aa82b-6b2f-4f84-937e-8f161060eeca" name="Default Changelist" comment="" />
+      <created>1579104739279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579104739279</updated>
+      <workItem from="1579104744232" duration="12178000" />
+      <workItem from="1579330456063" duration="7106000" />
+      <workItem from="1579429747237" duration="726000" />
+      <workItem from="1584174196900" duration="667000" />
+      <workItem from="1584199343609" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="76" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1579122704901">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="832" y="76" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1366.676@0.27.1366.676" timestamp="1579122704901" />
+    <state x="466" y="122" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579431253957">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="466" y="122" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.676@0.27.1366.676" timestamp="1579431253957" />
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom" timestamp="1579377150277">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.27.1366.676@0.27.1366.676" timestamp="1579377150277" />
+    <state width="1320" height="2" key="GridCell.Tab.0.center" timestamp="1579377150276">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.center/0.27.1366.676@0.27.1366.676" timestamp="1579377150276" />
+    <state width="1320" height="2" key="GridCell.Tab.0.left" timestamp="1579377150276">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.left/0.27.1366.676@0.27.1366.676" timestamp="1579377150276" />
+    <state width="1320" height="2" key="GridCell.Tab.0.right" timestamp="1579377150277">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.right/0.27.1366.676@0.27.1366.676" timestamp="1579377150277" />
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584199350891">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog/0.27.1366.676@0.27.1366.676" timestamp="1584199350891" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1579122898244">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.27.1366.676@0.27.1366.676" timestamp="1579122898244" />
+    <state x="0" y="27" width="1356" height="676" key="new project wizard" timestamp="1584199440561">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="0" y="27" width="1356" height="676" key="new project wizard/0.27.1366.676@0.27.1366.676" timestamp="1584199440561" />
+  </component>
+</project>
